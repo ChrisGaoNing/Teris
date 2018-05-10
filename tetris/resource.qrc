@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="block">source/c7a359ee3d6d55fb6e8936cd69224f4a21a4dd47.png</file>
+        <file alias="background">source/tooopen_sy_132772328589.png</file>
+        <file alias="mainscene">source/f603918fa0ec08fa73392bac58ee3d6d55fbdafb.png</file>
+    </qresource>
+</RCC>
